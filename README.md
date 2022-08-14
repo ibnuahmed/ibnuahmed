@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Abdifatah Ahmed</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?ibnuahmed=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+<p align="left"> <img src="https://ibnuahmed.github.io/Resume-Websit/index.html" alt="Abdifatah" /> </p>
 
 # 💫 About Me :
 - 🌱 I’m currently learning more about BlockChain and javascript.
